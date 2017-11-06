@@ -1,0 +1,3 @@
+# LEARNING JOURNAL DAY 10
+
+Today we went over more error handling and debugging tools, which will always be a great asset to have in future coding. But today we also had a chance to make up a webpage off of just a picture reference, and this was a great chance to really mess around with HTML and CSS. This was probably my favorite project so far just because it let me prove to myself that even though I didn't come up with a solid design on my own, I can definitely make one if I know what I'm aiming for. My past web-page designs had left a lot to be desired, so I picked up some neat tricks from this.
