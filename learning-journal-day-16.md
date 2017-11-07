@@ -1,0 +1,3 @@
+# LEARNING JOURNAL DAY 16
+
+Today we really started on our project and by really started I mean we started hammering out some code instead of planning and organization. We realized our data structure is the majority of what our project is built around and not so much different functions so we spent a lot of the day making sure that our data structure was good before we started building everything off of it. After we divided up tasks I got put on handling our problem of the day section on both pages, and learned how to make pop up text windows which is pretty neat and will definitely be useful in the future.
